@@ -1,0 +1,10 @@
+[Epoch 1] Avg Loss: 1.3610 | Val Weighted AUC: 0.5800
+[Epoch 2] Avg Loss: 1.3071 | Val Weighted AUC: 0.4637
+[Epoch 3] Avg Loss: 1.3052 | Val Weighted AUC: 0.5383
+[Epoch 4] Avg Loss: 1.3069 | Val Weighted AUC: 0.6006
+[Epoch 5] Avg Loss: 1.2967 | Val Weighted AUC: 0.5206
+[Epoch 6] Avg Loss: 1.3007 | Val Weighted AUC: 0.4524
+[Epoch 7] Avg Loss: 1.3029 | Val Weighted AUC: 0.5068
+[Epoch 8] Avg Loss: 1.3083 | Val Weighted AUC: 0.5367
+[Epoch 9] Avg Loss: 1.3269 | Val Weighted AUC: 0.4354
+[Epoch 10] Avg Loss: 1.3033 | Val Weighted AUC: 0.5573

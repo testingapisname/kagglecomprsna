@@ -1,0 +1,2 @@
+[Epoch 1] Avg Loss: 2.0860 | Val Weighted AUC: 0.4314
+[Epoch 2] Avg Loss: 1.9272 | Val Weighted AUC: 0.4385
